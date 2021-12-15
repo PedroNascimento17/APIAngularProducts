@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Azul",
+      "price": 5.89
+    },
+    {
+      "name": "Iphone X",
+      "price": 5799.78,
+      "id": 2
+    },
+    {
+      "name": "Macbook Air 4",
+      "price": 5199.89,
+      "id": 3
+    }
+  ]
+}
